@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build folders
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+
+# VS Code
+.vscode/
+
+# Optional (React specific)
+frontend-react/node_modules/
+frontend-react/build/
+
+# Backend services node_modules
+product-service/node_modules/
+food-service/node_modules/
+user-service/node_modules/
